@@ -1,4 +1,5 @@
-#Additionner des heures, des minutes et des secondes
+#Ecrire un  algorithme qui affiche la somme de deux duree en heure - minute - seconde.
+
 def sommeHeure(h1, m1, s1, h2, m2, s2):
 
 		s = (s1 + s2) % 60
