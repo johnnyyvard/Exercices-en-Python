@@ -8,5 +8,4 @@ def sommeHeure(h1, m1, s1, h2, m2, s2):
 		return ("Il est {} heures, {} minutes et {} secondes.".format(h,m,s))
 		
 print sommeHeure(2,4,2,20,2,7)
-
 print sommeHeure(2,45,25,4,8,3)
