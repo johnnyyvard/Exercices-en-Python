@@ -1,3 +1,5 @@
+#est le double d'un autre
+
 import math
 
 def divise(n,p):
