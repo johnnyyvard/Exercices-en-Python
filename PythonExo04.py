@@ -7,4 +7,3 @@ def afficheCond(a,b):
 
 print(afficheCond(6,3))
 print(afficheCond(6,2))
-print(afficheCond(4,2))
