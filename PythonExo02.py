@@ -14,4 +14,3 @@ def fibbo(n):
 
 print fibbo(7)
 print fibbo(5)
-print fibbo(3)
