@@ -9,3 +9,4 @@ def afficheCond(a,b):
 		return "rien"
 	
 print(afficheCond(6,3))
+print(afficheCond(5,3))
