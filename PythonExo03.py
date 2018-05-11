@@ -1,5 +1,5 @@
 #Plus precisement, ecrivez une fonction "diviseurs" prenant en parametre
-#le nombre entier "n"  et affichant le booleen vrai si "n" est pair, faux sinon.
+#le nombre entier "n" et affichant le booleen vrai si "n" est pair, faux sinon.
 
 def diviseurs(n):
 
@@ -10,6 +10,3 @@ def diviseurs(n):
 
 diviseurs(9)
 diviseurs(10)
-
-
- 
