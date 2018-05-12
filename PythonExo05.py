@@ -1,4 +1,4 @@
-#est le double d'un autre
+#... est le double d'un autre.
 
 import math
 
