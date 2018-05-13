@@ -1,4 +1,4 @@
-#...est pair ou non.
+#...entier est pair ou non.
 #Plus precisement, ecrivez une procedure "diviseurs" prenant en parametre
 #le nombre entier "n" et affichant "le nombre" n " est pair" 
 #si c'est la cas, "le nombre " n " est impaire" sinon.
