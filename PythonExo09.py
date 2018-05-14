@@ -10,4 +10,3 @@ def afficheCond(a,b,affiche):
 
 print(afficheCond(2,3,True))
 print(afficheCond(2,3,False))
-print(afficheCond(3,6,False))
