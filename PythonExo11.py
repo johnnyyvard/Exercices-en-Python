@@ -24,4 +24,3 @@ def afficheCond(a):
 
 print(afficheCond(-5))
 print(afficheCond(10))
-print(afficheCond(3))
