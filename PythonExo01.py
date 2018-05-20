@@ -1,11 +1,7 @@
-def sommeHeure(h1, m1, s1, h2, m2, s2):
+#...entiers enregistres dans les variables a et b.
 
-		s = (s1 + s2) % 60
-		tmp = m1 + m2 + (s1 + s2) // 60
-		m = tmp % 60
-		h = h1 + h2 + tmp // 60
+def somme (a,b):
 
-		return ("Il est {} heures, {} minutes et {} secondes.".format(h,m,s))
-		
-print sommeHeure(2,4,2,20,2,7)
-print sommeHeure(2,45,25,4,8,3)
+	print(a+b)
+
+somme(2,3)
