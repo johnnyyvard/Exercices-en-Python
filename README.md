@@ -1,2 +1,2 @@
 # Python
-Exercices en Python de la semaine 07 à l'IMIE 2018
+Python exercises from week 07 to IMIE 2018
